@@ -1,0 +1,14 @@
+name = "Universal"
+license = "MIT"
+licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
+description = ""
+homepage = ""
+tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+features = ["blog", "themes", "disqus", "minimal", "responsive"]
+min_version = 0.15
+
+[author]
+    name = "Denizalp Goktas"
+    homepage = "//github.com/denizalp"
+
+# If Porting existing theme
