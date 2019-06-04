@@ -100,7 +100,7 @@ paginate = 3
     contact_form_ajax = false
 
     about_us = "<p>HAPPIH</p>"
-    copyright = "Copyright (c) 2019, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2019, HAPPIH; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
