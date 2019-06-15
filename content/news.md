@@ -22,7 +22,7 @@ Five Sciences Po Paris students are launching in the Marrakech region the first 
 
 # [5 étudiants lancent un projet pour briser le tabou des règles au Maroc](https://www.huffpostmaghreb.com/2017/12/11/5-etudiants-lancent-projet-briser-tabou-regles-maroc_n_18785288.html )
 
-<img style="float: right;" src="./news_photos/Picture3.png">
+<img style="float: right" src="./news_photos/Picture3.png">
 
 MENSTRUATIONS - L'année 2017 aura très certainement réussi à lever (en partie) le voile sur le tabou des règles. Après la couverture explicite du magazine L'Equipe sur les règles chez les sportives, la parution de plusieurs ouvrages sur le sujet ou la création de maillots adaptés, cinq étudiants de Sciences Po Paris veulent eux aussi briser le tabou persistant des menstruations, au Maroc cette fois-ci. 
 
