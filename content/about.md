@@ -1,9 +1,9 @@
 ---
-description: HAPPIH in the News
+description: About HAPPIH
 keywords:
 - about
 - team
-title: News
+title: About Us
 ---
 
 
