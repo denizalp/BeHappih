@@ -6,34 +6,26 @@
     <description>Recent content in Categories on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Python</title>
-      <link>/categories/python/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Actions</title>
+      <link>/categories/actions/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/python/</guid>
+      <guid>/categories/actions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social Data</title>
-      <link>/categories/social-data/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Activities</title>
+      <link>/categories/activities/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/social-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Webscraping</title>
-      <link>/categories/webscraping/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/webscraping/</guid>
+      <guid>/categories/activities/</guid>
       <description></description>
     </item>
     

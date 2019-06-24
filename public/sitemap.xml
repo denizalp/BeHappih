@@ -3,12 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/web-scraping-tutorial/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
+    <loc>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -16,7 +12,38 @@
   </url>
   
   <url>
+    <loc>/tags/actions/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/actions/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/activities/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/activities/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,48 +56,30 @@
   </url>
   
   <url>
+    <loc>/tags/menstruation/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/morocco/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/news/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/python/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/python/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/social-data/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/webscraping/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

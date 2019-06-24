@@ -6,27 +6,18 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Web Scraping Tutorial</title>
-      <link>/post/web-scraping-tutorial/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Distribution of Pads in the Marrakech Region</title>
+      <link>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/web-scraping-tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/news/</guid>
-      <description>News /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;function&#34;===m.type(a)},isArray:Array.isArray||function(a){return&#34;array&#34;===m.type(a)},isWindow:function(a){return null!=a&amp;&amp;a==a.window},isNumeric:function(a){return!m.isArray(a)&amp;&amp;a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||&#34;object&#34;!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&amp;&amp;!j.call(a,&#34;constructor&#34;)&amp;&amp;!j.call(a.constructor.prototype,&#34;isPrototypeOf&#34;))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+&#34;&#34;:&#34;object&#34;==typeof a||&#34;function&#34;==typeof a?h[i.call(a)]||&#34;object&#34;:typeof a},globalEval:function(b){b&amp;&amp;m.trim(b)&amp;&amp;(a.execScript||function(b){a.eval.call(a,b)})(b)},camelCase:function(a){return a.</description>
+      <guid>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</guid>
+      <description>Between the 15th and 17th of December, the HAPPIH team lead its first project in the Marrakech region. Throughout the three days, the teams has met 125 girls from lower class families and gave every girl a re-usable sanitary pad. The distribution was also accompanied with a meeting with every family. The meetings aimed to inform the families about female hygiene practices and encourage the families to keep their daughters schooled.</description>
     </item>
     
     <item>
@@ -35,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>The Team Rita Sekkat Rita is one of the five founders of HAPPIH. She grew up in Morocco before coming to France. She is currently student at Sciences Po Paris in Master of public policy and she is doing the gender equality and public policy certificate between Sciences Po and Harvard. She is committed in favor of women’s right. She aims to reduce gender inequality towards the world and break down the menstruation taboo.</description>
+      <description>/* Three columns side by side */ .column { float: left; width: 50%; margin-bottom: 16px; padding: 0 8px; } /* Display the columns below each other instead of side by side on small screens */ @media screen and (max-width: 650px) { .column { width: 100%; display: block; } } /* Add some shadows to create a card effect */ .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.</description>
     </item>
     
     <item>

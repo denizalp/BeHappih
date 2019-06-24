@@ -6,17 +6,44 @@
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Actions</title>
+      <link>/tags/actions/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>/tags/actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>/tags/activities/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Menstruation</title>
+      <link>/tags/menstruation/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/menstruation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morocco</title>
+      <link>/tags/morocco/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/morocco/</guid>
       <description></description>
     </item>
     
