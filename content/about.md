@@ -9,9 +9,9 @@ title: About Us
  /* Three columns side by side */
 .column {
   float: left;
-  width: 50%;
+  width: 25%;
   margin-bottom: 16px;
-  padding: 0 8px;
+  padding: 0 0px;
 }
 
 
@@ -26,7 +26,7 @@ title: About Us
 /* Add some shadows to create a card effect */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-   height: 1000px;
+   height: 800px;
   width: 80%;
 }
 
@@ -76,7 +76,9 @@ HAPPIH is an association that emerged following a contest sponsored by the gover
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../img/about/rita.jpg" alt="Rita Sekkat" style="width:100%">
+      <img src="../img/about/rita.jpg" alt="Rita Sekkat" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
       <div class="container">
         <h2>Rita Sekkat</h2>
         <p class="title">Co-Founder and President</p>
@@ -97,7 +99,9 @@ HAPPIH is an association that emerged following a contest sponsored by the gover
 
   <div class="column">
     <div class="card">
-      <img src="../img/about/charles.jpg" alt="Charles Culioli" style="width:100%">
+      <img src="../img/about/charles.jpg" alt="Charles Culioli" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
       <div class="container">
         <h2>Charles Culioli</h2>
         <p class="title">Co-Founder and Vice-President</p>
@@ -106,12 +110,14 @@ Charles Culioli is a law student at Sciences Po Paris. He holds a bachelor in po
       </div>
     </div>
   </div>
-</div> 
 
- <div class="row">
+
+
   <div class="column">
     <div class="card">
-      <img src="../img/about/denizalp.jpg" alt="Denizalp Goktas" style="width:100%">
+      <img src="../img/about/denizalp.jpg" alt="Denizalp Goktas" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
       <div class="container">
         <h2>Denizalp Goktas</h2>
         <p class="title">Co-Founder and Vice-President</p>
@@ -123,7 +129,9 @@ Charles Culioli is a law student at Sciences Po Paris. He holds a bachelor in po
 
   <div class="column">
     <div class="card">
-      <img src="../img/about/walid.jpg" alt="Walid Ben Hamadi" style="width:100%">
+      <img src="../img/about/walid.jpg" alt="Walid Ben Hamadi" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
       <div class="container">
       <br>
       <br>
@@ -142,9 +150,9 @@ Walid Ben Hamadi is a Management and Public Policy student at HEC Paris and Scie
 # Our Supporters
 
 
-## INSAF (L’Institut national de solidarité avec les femmes en détresse )
+## INSAF (L’Institut national de solidarité avec les femmes en détresse)
 
-<img style="float: right; height: 20%; width: 20%" src="../img/about/insaf.png">
+<img style="float: left; height: 10%; width: 10%; padding-right: 30px;" src="../img/about/insaf.png">
 
 The National Institute for Solidarity with Distressed Women (INSAF) contributes to promoting the rights of women and children in the Moroccan civil society. 
 
@@ -156,7 +164,7 @@ The National Institute for Solidarity with Distressed Women (INSAF) contributes 
 
 ## Monegasque Cooperation for Development (DCI)
 
-<img style="float: right; height: 70%; width: 50%" src="../img/about/monaco.jpg">
+<img style="float: left; height: 40%; width: 20%; padding-right: 30px;" src="../img/about/monaco.jpg">
 
 The Prince’s Government’s Public Aid for Development, implemented by the Department of International Cooperation, supports more than 130 projects every year in 11 partner countries, primarily least developed countries.
 
@@ -167,7 +175,7 @@ The Prince’s Government’s Public Aid for Development, implemented by the Dep
 
 ## Wallah We Can
 
-<img style="float: right; height: 70%; width: 50%" src="../img/about/wallah.jpg">
+<img style="float: left; height: 35%; width: 15%; padding-right: 30px;" src="../img/about/wallah.jpg">
 Wallah We Can is a Tunisian foundation working to better the living conditions of children and enhancing the quality of the education system in Tunisia. The foundation was pivotal in helping us design and craft our own prototype of reusable and ecological menstrual pads. 
 
 

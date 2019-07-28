@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>/* Three columns side by side */ .column { float: left; width: 50%; margin-bottom: 16px; padding: 0 8px; } /* Display the columns below each other instead of side by side on small screens */ @media screen and (max-width: 650px) { .column { width: 100%; display: block; } } /* Add some shadows to create a card effect */ .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.</description>
+      <description>/* Three columns side by side */ .column { float: left; width: 25%; margin-bottom: 16px; padding: 0 0px; } /* Display the columns below each other instead of side by side on small screens */ @media screen and (max-width: 650px) { .column { width: 100%; display: block; } } /* Add some shadows to create a card effect */ .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/news/</guid>
-      <description>#BeHappih, l’initiative estudiantine qui aborde sans tabou le sujet des règles « Humanitarian Action for Protection and Preservation of Intimate Hygiene » (HAPPIH) est le nom de l’initiative portée par cinq étudiants de Sciences Po Paris avec le soutien de la Direction de la coopération internationale de Monaco (DCI). Un projet pilote au Maroc entrepris par Charles Culioli, Walid Ben Hamadi, Moez Rais, Rita Sekkat et Denizalp Goktas, originaires de différents pays notamment du royaume.</description>
+      <description>#BeHappih, l’initiative estudiantine qui aborde sans tabou le sujet des règles  « Humanitarian Action for Protection and Preservation of Intimate Hygiene » (HAPPIH) est le nom de l’initiative portée par cinq étudiants de Sciences Po Paris avec le soutien de la Direction de la coopération internationale de Monaco (DCI). Un projet pilote au Maroc entrepris par Charles Culioli, Walid Ben Hamadi, Moez Rais, Rita Sekkat et Denizalp Goktas, originaires de différents pays notamment du royaume.</description>
     </item>
     
   </channel>

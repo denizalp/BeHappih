@@ -2,14 +2,9 @@
     <div class="container">
 
         {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-4 col-sm-6">
-            <h4>{{ i18n "aboutUs" }}</h4>
+<!--        <div class="col-md-4 col-sm-6">
 
-            {{ .Site.Params.about_us | markdownify }}
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
-        </div>
+        </div>-->
         <!-- /.col-md-4 -->
         {{ end }}
 
@@ -23,11 +18,7 @@
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
                         <a href="{{ .Permalink }}">
-                          {{ if isset .Params "banner" }}
-                            <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="{{ .Title }}">
-                          {{ else }}
-                            <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="{{ .Title }}">
-                          {{ end }}
+                            <img src="../../img/logo.png" style="width:70%">
                         </a>
                     </div>
                     <div class="name same-height-always">
@@ -42,7 +33,9 @@
 
         </div>
         <!-- /.col-md-4 -->
+        <div class="col-md-4 col-sm-6">
 
+        </div>
         {{ if isset .Site.Params "address" }}
         <div class="col-md-4 col-sm-6">
 
