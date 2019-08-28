@@ -2,59 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universal</title>
-    <link>/</link>
+    <link>/en/</link>
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Distribution of Pads in the Marrakech Region</title>
-      <link>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</link>
+      <link>/en/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</guid>
+      <guid>/en/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</guid>
       <description>Between the 15th and 17th of December, the HAPPIH team lead its first project in the Marrakech region. Throughout the three days, the teams has met 125 girls from lower class families and gave every girl a re-usable sanitary pad. The distribution was also accompanied with a meeting with every family. The meetings aimed to inform the families about female hygiene practices and encourage the families to keep their daughters schooled.</description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>/about/</link>
+      <link>/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/en/about/</guid>
       <description>/* Three columns side by side */ .column { float: left; width: 25%; margin-bottom: 16px; padding: 0 0px; } /* Display the columns below each other instead of side by side on small screens */ @media screen and (max-width: 650px) { .column { width: 100%; display: block; } } /* Add some shadows to create a card effect */ .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>/en/contact/</guid>
       <description>We are here to help and would love to work together! Are you curious about something? Please feel free to contact us!</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>/faq/</link>
+      <link>/en/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/</guid>
+      <guid>/en/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/news/</link>
+      <link>/en/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/news/</guid>
+      <guid>/en/news/</guid>
       <description>#BeHappih, l’initiative estudiantine qui aborde sans tabou le sujet des règles  « Humanitarian Action for Protection and Preservation of Intimate Hygiene » (HAPPIH) est le nom de l’initiative portée par cinq étudiants de Sciences Po Paris avec le soutien de la Direction de la coopération internationale de Monaco (DCI). Un projet pilote au Maroc entrepris par Charles Culioli, Walid Ben Hamadi, Moez Rais, Rita Sekkat et Denizalp Goktas, originaires de différents pays notamment du royaume.</description>
+    </item>
+    
+    <item>
+      <title>Support Us</title>
+      <link>/en/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/support/</guid>
+      <description> Would you like to help our campaign? Help us improve the lives of more girls by making a small donation! </description>
     </item>
     
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: Distribution of Pads in the Marrakech Region
+title: Distribution de Serviettes Hygièniques dans la Région de Marrakech.
 author: Denizalp Goktas
 date: '2019-06-24'
 slug: distribution-of-pads-in-the-marrakech-region

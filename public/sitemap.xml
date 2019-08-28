@@ -3,82 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</loc>
+    <loc>/en/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/en/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/actions/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/actions/</loc>
+    <loc>/en/tags/actions/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/activities/</loc>
+    <loc>/en/categories/actions/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/activities/</loc>
+    <loc>/en/tags/activities/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/en/categories/activities/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/en/blog/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/menstruation/</loc>
+    <loc>/en/categories/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/morocco/</loc>
+    <loc>/en/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/tags/menstruation/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/news/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/morocco/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/en/news/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/support/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

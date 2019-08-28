@@ -41,9 +41,9 @@ paginate = 3
     weight = 4
     
 [[menu.main]]
-    identifier="Support Us"
+    identifier="support"
     name = "Support Us"
-    url  = "/support-us/"
+    url  = "/support/"
     weight = 5
 
 [[menu.main]]
@@ -58,6 +58,11 @@ paginate = 3
     url  = "/faq/"
     weight = 7
 
+[[menu.main]]
+    identifier = "french"
+    name = "French"
+    url  = "../fr/"
+    weight = 8
 
 
 # Top bar social links menu
