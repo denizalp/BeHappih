@@ -347,7 +347,7 @@ paginate = 3
           # at 'exampleSite/data/testimonials'.
           # For more informtion take a look at the README.
           title = "Nos Derniers Projets"
-          subtitle = "On a poursuivi des campagnes dans différents regions du monde et nous sommes toujours fière de pouvoir avoir amélioré la vie des autres. Voici, quelques teémoignages: "
+          subtitle = "On a poursuivi des campagnes dans différents regions du monde et nous sommes toujours fière de pouvoir avoir amélioré la vie des autres. Voici, quelques témoignages: "
       
       [languages.fr.params.see_more]
           enable = false
