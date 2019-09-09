@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Universal</title>
-    <link>/en/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Actions</title>
-      <link>/en/tags/actions/</link>
+      <link>/tags/actions/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/actions/</guid>
+      <guid>/tags/actions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Activities</title>
-      <link>/en/tags/activities/</link>
+      <link>/tags/activities/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/activities/</guid>
+      <guid>/tags/activities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Menstruation</title>
-      <link>/en/tags/menstruation/</link>
+      <link>/tags/menstruation/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/menstruation/</guid>
+      <guid>/tags/menstruation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morocco</title>
-      <link>/en/tags/morocco/</link>
+      <link>/tags/morocco/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/morocco/</guid>
+      <guid>/tags/morocco/</guid>
       <description></description>
     </item>
     
