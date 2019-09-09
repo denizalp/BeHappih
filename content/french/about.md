@@ -76,7 +76,7 @@ HAPPIH est une association qui a émergée à la suite d’une compétition orga
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../img/about/rita.jpg" alt="Rita Sekkat" style="width:100%; display: block;
+      <img src="../../img/about/rita.jpg" alt="Rita Sekkat" style="width:100%; display: block;
 margin-left: auto;
 margin-right: auto;">
       <div class="container">
@@ -90,7 +90,7 @@ margin-right: auto;">
 
   <div class="column">
     <div class="card">
-      <img src="../img/about/charles.jpg" alt="Charles Culioli" style="width:100%; display: block;
+      <img src="../../img/about/charles.jpg" alt="Charles Culioli" style="width:100%; display: block;
 margin-left: auto;
 margin-right: auto;">
       <div class="container">
@@ -106,7 +106,7 @@ Charles Culioli est un étudiant de droit à Sciences Po Paris. Il détient une 
 
   <div class="column">
     <div class="card">
-      <img src="../img/about/denizalp.jpg" alt="Denizalp Goktas" style="width:100%; display: block;
+      <img src="../../img/about/denizalp.jpg" alt="Denizalp Goktas" style="width:100%; display: block;
 margin-left: auto;
 margin-right: auto;">
       <div class="container">
@@ -120,7 +120,7 @@ margin-right: auto;">
 
   <div class="column">
     <div class="card">
-      <img src="../img/about/walid.jpg" alt="Walid Ben Hamadi" style="width:100%; display: block;
+      <img src="../../img/about/walid.jpg" alt="Walid Ben Hamadi" style="width:100%; display: block;
 margin-left: auto;
 margin-right: auto;">
       <div class="container">
@@ -141,7 +141,7 @@ Walid Ben Hamadi est en train de poursuivre ses études en gestion et affaire pu
 
 ## INSAF (L’Institut national de solidarité avec les femmes en détresse)
 
-<img style="float: left; height: 10%; width: 10%; padding-right: 30px;" src="../img/about/insaf.png">
+<img style="float: left; height: 10%; width: 10%; padding-right: 30px;" src="../../img/about/insaf.png">
 
 L’Institut national de solidarité avec les femmes en détresse contribue à l’avènement d’une société marocaine qui garantit à chaque femme et à chaque enfant le respect de leurs droits dans un environnement digne et responsable.
 
@@ -155,7 +155,7 @@ L’Institut national de solidarité avec les femmes en détresse contribue à l
 ## Direction de la Coopération Internationale (DCI) du Gouvernement princier de Monaco
 
 
-<img style="float: left; height: 40%; width: 20%; padding-right: 30px;" src="../img/about/monaco.jpg">
+<img style="float: left; height: 40%; width: 20%; padding-right: 30px;" src="../../img/about/monaco.jpg">
 
 L'aide publique au développement du Gouvernement Princpier de Monaco, mise en œuvre par la Direction de la Coopération Internationale, permet de soutenir chaque année plus de 130 projets dans 11 pays partenaires, principalement des PMA (Pays les Moins Avancés).
 
@@ -167,7 +167,7 @@ L'aide publique au développement du Gouvernement Princpier de Monaco, mise en �
 
 ## Wallah We Can
 
-<img style="float: left; height: 35%; width: 15%; padding-right: 30px;" src="../img/about/wallah.jpg">
+<img style="float: left; height: 35%; width: 15%; padding-right: 30px;" src="../../img/about/wallah.jpg">
 
 Wallah We Can est une fondation Tunisienne à but non lucratif, œuvrant pour l'enfance et l'éducation en Tunisie. La fondation nous a permis de bénéficier de son expertise pour créer notre modèle de serviette écologique et réutilisable.
 
