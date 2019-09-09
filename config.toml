@@ -1,7 +1,7 @@
 baseurl = "https://www.happih.org/"
 defaultContentLanguage = "en"
 
-title = "Universal"
+title = "HAPPIH"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -330,7 +330,7 @@ paginate = 3
           search = true
       
       [languages.fr.params.carousel]
-          enable = true
+          enable = false
           # All carousel items are defined in their own files. You can find example items
           # at 'exampleSite/data/carousel'.
           # For more informtion take a look at the README.
@@ -357,8 +357,8 @@ paginate = 3
           link_url = "#"
           link_text = "Check other homepages"
       
-      [languages.fr.params.clientsfr]
-          enable = true
+      [languages.fr.params.clients]
+          enable = false
           # All clients are defined in their own files. You can find example items
           # at 'exampleSite/data/clients'.
           # For more informtion take a look at the README.

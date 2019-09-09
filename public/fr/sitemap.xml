@@ -156,6 +156,22 @@
   </url>
   
   <url>
+    <loc>/fr/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/tags/menstruation/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -214,22 +230,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
                 />
   </url>
   
