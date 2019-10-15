@@ -26,17 +26,8 @@
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <!--<div class="col-md-4">
-                                  <div class="image">
-                                     
-                                          {{ if .Params.banner }}
-                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
-                                          {{ else }}
-                                          <img src="{{ .Site.BaseURL}}img/logo.png" class= "img-responsive" alt= "" style = "width: 70%">
-                                          {{ end }}
-                                      </a>
-                                  </div>-->
-                                </div>
+
+                                
                                 <div class="col-md-12">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
@@ -59,10 +50,11 @@
                                     <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                                     </p>
                                 </div>
-                            </div>
+                                </div>
+                           
                         </section>
                         {{ end }}
-
+ </div>
                         <ul class="pager">
                             {{ if .Paginator.HasPrev }}
                             <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; {{ i18n "newer" }}</a></li>
