@@ -325,9 +325,9 @@ paginate = 3
       
       # Enable and disable widgets for the right sidebar
       [languages.fr.params.widgets]
-          categories = true
+          categories = false
           tags = false
-          search = true
+          search = false
       
       [languages.fr.params.carousel]
           enable = false

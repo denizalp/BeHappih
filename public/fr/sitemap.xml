@@ -3,87 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/"
-                />
+    <loc>/fr/blog/2019/09/14/2019-09-14-distribution-de-serviettes-a-tanant/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/fr/tags/actions/</loc>
+    <loc>/fr/blog/2019/06/24/2019-06-24-distribution-de-serviettes-hygieniques-dans-la-region-de-marrakech/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/actions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/actions/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/categories/actions/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/actions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/actions/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/activities/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/activities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/activities/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/categories/activities/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/activities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/activities/"
-                />
   </url>
   
   <url>
     <loc>/fr/blog/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -99,7 +30,6 @@
   
   <url>
     <loc>/fr/categories/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -157,7 +87,7 @@
   
   <url>
     <loc>/fr/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -168,38 +98,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/menstruation/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/menstruation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/menstruation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/morocco/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/morocco/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/morocco/"
                 />
   </url>
   
@@ -219,7 +117,6 @@
   
   <url>
     <loc>/fr/tags/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
