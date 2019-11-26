@@ -7,7 +7,7 @@ slug: distribution-of-pads-in-the-Tanant-region
 
 
 
-We have partnered with the Peace Corps to expand our campaign to the Tanant region! The action funded by HAPPIH and led in Tanant aimed to provide girls in boarding schools in the region with three re-usable pads each which are expected to stand 3 years of use. The action was led by Cassandra Broadwin, a volunteer for the Peace Corps. The distribution of pads was followed up by information sessions which aimed to inform the young girls and isntructors at the boarding school about feminine hygiene!
+We have partnered with Dar Taliba to expand our campaign to the Tanant region! The action funded by HAPPIH and led in Tanant aimed to provide girls in boarding schools in the region with three re-usable pads each which are expected to stand 3 years of use. The action was led by Cassandra Broadwin, a volunteer working for the Peace Corps. The distribution of pads was followed up by information sessions which aimed to inform the young girls and isntructors at the boarding school about feminine hygiene!
 
 
 
