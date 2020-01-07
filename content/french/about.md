@@ -133,7 +133,57 @@ Walid Ben Hamadi est en train de poursuivre ses études en gestion et affaire pu
   </div>
 </div> 
 
+<div class="row">
 
+
+  <div class="column">
+    <div class="card">
+      <img src="../../img/about/cassandra.png" alt="Cassandra Broadwin" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
+      <div class="container">
+        <h2>Cassandra Broadwin</h2>
+        <p class="title">Community Manager</p>
+        <p>
+         Cassandra est notre community manager! Elle a précédemment travaillé en tant que volontaire pour les Peace Corps au Maroc. Aux Peace Corps, elle a concentré ses efforts sur l'émancipation de la femme, le dévelopment de la jeunesse et l'amélioration des standards de vie dans les zones rurales du Maroc. Aujourd'hui, elle vie à Seattle au Washington avec son chien, Au Lait. Dans son temps libre, Cassandra s'entraine pour des marathon et donne des cours de Yoga!
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  
+
+  <div class="column">
+    <div class="card">
+      <img src="../../img/about/maha.png" alt="Maha Naamaoui" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
+      <div class="container">
+        <h2>Maha Naamaoui</h2>
+        <p class="title">Project Manager: Morocco</p>
+        <p>
+Maha est notre directrice de projets pour le Maroc. Elle est étudiante de médecine à l'université Mohammed VI à Casablanca au Maroc. Elle est convaincu que pour une croissance durable il est indispensable d'assurer une bonne qualité de vie et de santé pour tous. Maha a travaillé avec de nombreuses ONG pour contribuer à l'amélioration de la qualité de vie et de santé au Maroc. Elle aime lire et voyagé dans son temps libre!
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="column">
+    <div class="card">
+      <img src="../../img/about/mariyem.png" alt="Mariyem Sqalli" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
+      <div class="container">
+        <h2>Mariyem Sqalli</h2>
+        <p class="title">Fundraising Manager</p>
+        <p>
+Mariyam est notre directrice de collecte de fonds. Elle est en train de faire ces études de commerce à l'école de commerce d'Esade à Barcelona. Elle a travaillé à mi-temps pendant deux ans en tant que directrice de projet à Oikos International, une ONG qui a pour but de renforcer l'entreprenariat durable.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 # Our Supporters

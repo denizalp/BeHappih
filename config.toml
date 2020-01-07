@@ -54,7 +54,7 @@ paginate = 3
     [[languages.en.menu.main]]
         identifier="support"
         name = "Support Us"
-        url  = "/support/"
+        url  = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E69JH3UDT444A&source=url"
         weight = 5
      
     [[languages.en.menu.main]]
@@ -230,7 +230,7 @@ paginate = 3
       [[languages.fr.menu.main]]
           identifier="support"
           name = "Supportez-Nous"
-          url  = "/support/"
+          url  = "/fr/support/"
           weight = 5
       
       [[languages.fr.menu.main]]

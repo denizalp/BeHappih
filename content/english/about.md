@@ -133,8 +133,6 @@ margin-right: auto;">
 margin-left: auto;
 margin-right: auto;">
       <div class="container">
-      <br>
-      <br>
         <h2>Walid Ben Hamadi</h2>
         <p class="title">Co-Founder and Vice-President</p>
         <p>
@@ -144,8 +142,57 @@ Walid Ben Hamadi is a Management and Public Policy student at HEC Paris and Scie
   </div>
 </div> 
 
+<div class="row">
 
 
+  <div class="column">
+    <div class="card">
+      <img src="../img/about/cassandra.png" alt="Cassandra Broadwin" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
+      <div class="container">
+        <h2>Cassandra Broadwin</h2>
+        <p class="title">Community Manager</p>
+        <p>
+         Our Community Manager Cassandra is a returned Peace Corps Volunteer from Morocco, where she focused on women’s empowerment, youth development, and health education programming in the High Atlas Mountains. She currently lives in Seattle, Washington with her dog, Au Lait. In her free time, she is a marathon runner and yoga teacher.
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  
+
+  <div class="column">
+    <div class="card">
+      <img src="../img/about/maha.png" alt="Maha Naamaoui" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
+      <div class="container">
+        <h2>Maha Naamaoui</h2>
+        <p class="title">Project Manager: Morocco</p>
+        <p>
+Maha is our Project Manager for Morocco! She is a medical student at Mohammed Vi University of Health Sciences in Casablanca, Morocco. She belives ensuring quality education and healthy lives for all is a development driver. Maha has worked for various NGOs in that sense. She is passionated about issues regarding development especially gender equality and access to quality education & health. She enjoys reading and traveling.
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="column">
+    <div class="card">
+      <img src="../img/about/mariyem.png" alt="Mariyem Sqalli" style="width:100%; display: block;
+margin-left: auto;
+margin-right: auto;">
+      <div class="container">
+        <h2>Mariyem Sqalli</h2>
+        <p class="title">Fundraising Manager</p>
+        <p>
+Mariyam is our Fundraising Manager. She is a Bachelor in Business Administration student at Esade Business School in Barcelona. She worked as a part time project manager for more than two years at oikos International, an international NGO that seeks to strengthen sustainability-oriented entrepreneurship.
+        </p>
+      </div>
+    </div>
+  </div>
+</div> 
 
 # Our Supporters
 
