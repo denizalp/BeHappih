@@ -221,9 +221,9 @@ The Monegasque Government’s Development and International Cooperation Deparmen
 
 <br>
 
-## Wallah We Can
+## Union-ALFM
 
-<img style="float: left; height: 35%; width: 15%; padding-right: 30px;" src="../img/about/wallah.jpg">
-Wallah We Can is a Tunisian foundation working to improve the living conditions of children and enhancing the quality of the education system in Tunisia. The foundation was pivotal in helping us design and craft our own prototype of reusable and ecological pads. 
+<img style="float: left; height: 35%; width: 15%; padding-right: 30px;" src="../../img/about/alfm.jpg">
+
 
 
