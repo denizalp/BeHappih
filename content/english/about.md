@@ -192,6 +192,7 @@ Mariyam is our Fundraising Manager. She is a Bachelor in Business Administration
       </div>
     </div>
   </div>
+  
 </div> 
 
 # Our Supporters

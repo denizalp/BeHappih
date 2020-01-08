@@ -215,10 +215,13 @@ L'aide publique au développement du Gouvernement Princpier de Monaco, mise en �
 
 <br>
 
-## Wallah We Can
+## Union-ALFM
 
-<img style="float: left; height: 35%; width: 15%; padding-right: 30px;" src="../../img/about/wallah.jpg">
+<img style="float: left; height: 35%; width: 15%; padding-right: 30px;" src="../../img/about/alfm.jpg">
 
-Wallah We Can est une fondation Tunisienne à but non lucratif, œuvrant pour l'enfance et l'éducation en Tunisie. La fondation nous a permis de bénéficier de son expertise pour créer notre modèle de serviette écologique et réutilisable.
+L’Union-ALFM est l’Association des anciens élèves des lycées français du monde et est engagée dans la construction d’un réseau mondial d'anciens élèves:
+- un réseau soudé autour des valeurs de tolérance, d'humanisme, et de solidarité,
+- un réseau constitué de membres animés par la volonté de rencontrer l'autre, dans un esprit de bienveillance,
+- un réseau dans lequel les associations locales prendront toute leur place, c'est le sens de notre nouvelle dénomination, "Union-ALFM".
 
 

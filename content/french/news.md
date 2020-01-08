@@ -5,6 +5,20 @@ keywords:
 title: Dans les Médias
 ---
 
+# [Interview de Rita SEKKAT, lauréate du Prix de l'engagement de l’Union-ALFM 2019](https://alfm.fr/news/243859?fbclid=IwAR38n4fRYwZ09tovIrMdMbuonzavfBr8Jo7pbVdqI8XjRDVaH3VT2BKIwiE)
+
+<div class = "row">
+  <div class="col-md-8">
+Rita SEKKAT, est co-fondatrice et Présidente de l'Association franco-marocaine HAPPIH (Humanitarian Action for Proctection and Preservation of Intimate Hygiene), qui lutte contre la précarité menstruelle et les tabous liés aux règles au Maghreb, au Moyen-Orient et en Afrique Subsaharienne plus largement.
+HAPPIH concentre ses actions sur l’éducation des jeunes filles et l’accès aux serviettes hygiéniques réutilisables.
+  </div>
+
+
+
+  <div class="col-md-4">
+    <img style="float: left; width: 60%; padding-top: 0px" src="../img/about/alfm.jpg">
+  </div>
+</div>
 
 # [Lutter contre la précarité menstruelle](https://www.sciencespo.fr/programme-presage/fr/actualites/lutter-contre-la-precarite-menstruelle.html?fbclid=IwAR2VqXHtFHjZifsSP7mznTVaaqsRfU6MQMSMrs2H93RkTWIm8AYJJDDk3Jw)
 
