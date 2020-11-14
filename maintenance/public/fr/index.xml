@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAPPIH</title>
+    <link>/fr/</link>
+    <description>Recent content on HAPPIH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribution de Serviettes à Tanant.</title>
+      <link>/fr/blog/2019/09/14/2019-09-14-distribution-de-serviettes-a-tanant/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/blog/2019/09/14/2019-09-14-distribution-de-serviettes-a-tanant/</guid>
+      <description>A l&amp;rsquo;occasion de la journée internationale de la fille, vendredi 11 octobre, nous avons effectué une journée de sensibilisation à l&amp;rsquo;hygiène intime à Tanant au Maroc. Cet action était une excellente opportunitée déconstruire le tabou des règles en metant en place un débat encadré et dirigé par une infirmière. 70 jeunes filles ont pris part à ces discussions. 213 serviettes en bambou lavables ont été distribuées. On remerice Cassandra Broadwin, notre volontaire sure place, gràce à laquelle ce succès a été possible !</description>
+    </item>
+    
+    <item>
+      <title>Distribution de Serviettes Hygièniques dans la Région de Marrakech</title>
+      <link>/fr/blog/2019/06/24/2019-06-24-distribution-de-serviettes-hygieniques-dans-la-region-de-marrakech/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/blog/2019/06/24/2019-06-24-distribution-de-serviettes-hygieniques-dans-la-region-de-marrakech/</guid>
+      <description>Entre les 15 et 17 décembres, l’équipe HAPPIH a exécuté son premier projet dans la région de Marrakech. Durant ces trois journées l’équipe a rencontré 125 filles et a distribué des serviettes hygiéniques. La distribution de serviettes a aussi été accompagné de différents sessions d’information ayant pour but d’éduquer les parent des jeunes filles à propos de l’hygiène féminine.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/contact/</guid>
+      <description>Nous voulons améliorer le monde et nous adorerons faire cela avec vous! Vous êtes curieux? Contactez-nous à l&amp;rsquo;aide du questionnaire ci-dessous</description>
+    </item>
+    
+    <item>
+      <title>Dans les Médias</title>
+      <link>/fr/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/news/</guid>
+      <description>Interview de Rita SEKKAT, lauréate du Prix de l&amp;rsquo;engagement de l’Union-ALFM 2019 Rita SEKKAT, est co-fondatrice et Présidente de l&#39;Association franco-marocaine HAPPIH (Humanitarian Action for Proctection and Preservation of Intimate Hygiene), qui lutte contre la précarité menstruelle et les tabous liés aux règles au Maghreb, au Moyen-Orient et en Afrique Subsaharienne plus largement. HAPPIH concentre ses actions sur l’éducation des jeunes filles et l’accès aux serviettes hygiéniques réutilisables.</description>
+    </item>
+    
+    <item>
+      <title>Foire Aux Questions</title>
+      <link>/fr/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Supportez-Nous!</title>
+      <link>/fr/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/support/</guid>
+      <description> Voudrez-vous supporter nos actions? Aidez-nous à ameliorer la vie de nombreux jeunes filles en faisant une petite contribution à notre cause! </description>
+    </item>
+    
+    <item>
+      <title>Á propos de Nous!</title>
+      <link>/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/about/</guid>
+      <description>/* Three columns side by side */ .column { float: left; width: 25%; margin-bottom: 16px; padding: 0 0px; } /* Display the columns below each other instead of side by side on small screens */ @media screen and (max-width: 650px) { .column { width: 100%; display: block; } } /* Add some shadows to create a card effect */ .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.</description>
+    </item>
+    
+  </channel>
+</rss>

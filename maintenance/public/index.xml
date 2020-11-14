@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAPPIH</title>
+    <link>/</link>
+    <description>Recent content on HAPPIH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribution of Pads in Tanant.</title>
+      <link>/blog/2019/09/14/2019-09-14-distribution-of-pads-in-the-tenant-region/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/09/14/2019-09-14-distribution-of-pads-in-the-tenant-region/</guid>
+      <description>We have partnered with Dar Taliba to expand our campaign to the Tanant region! The action funded by HAPPIH and led in Tanant aimed to provide girls in boarding schools in the region with three re-usable pads each which are expected to stand 3 years of use. The action was led by Cassandra Broadwin, a volunteer working for the Peace Corps. The distribution of pads was followed up by information sessions which aimed to inform the young girls and isntructors at the boarding school about feminine hygiene!</description>
+    </item>
+    
+    <item>
+      <title>Distribution of Pads in Rural Areas of Marrakech.</title>
+      <link>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/06/24/2019-06-24-distribution-of-pads-in-the-marrakech-region/</guid>
+      <description>Between the 15th and 17th of December, the HAPPIH team lead its first project in the Marrakech region. Throughout the three days, the teams has met 125 girls from lower class families and gave every girl a re-usable sanitary pad. The distribution was also accompanied with a meeting with every family. The meetings aimed to inform the families about female hygiene practices and encourage the families to keep their daughters schooled.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>/* Three columns side by side */ .column { float: left; width: 25%; margin-bottom: 16px; padding: 0 0px; } /* Display the columns below each other instead of side by side on small screens */ @media screen and (max-width: 650px) { .column { width: 100%; display: block; } } /* Add some shadows to create a card effect */ .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are here to help and would love to work together! Are you curious about something? Please feel free to contact us!</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>Interview de Rita SEKKAT, lauréate du Prix de l&amp;rsquo;engagement de l’Union-ALFM 2019 Rita SEKKAT, est co-fondatrice et Présidente de l&#39;Association franco-marocaine HAPPIH (Humanitarian Action for Proctection and Preservation of Intimate Hygiene), qui lutte contre la précarité menstruelle et les tabous liés aux règles au Maghreb, au Moyen-Orient et en Afrique Subsaharienne plus largement. HAPPIH concentre ses actions sur l’éducation des jeunes filles et l’accès aux serviettes hygiéniques réutilisables.</description>
+    </item>
+    
+    <item>
+      <title>Support Us</title>
+      <link>/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/</guid>
+      <description> Would you like to help our campaign? Help us improve the lives of more girls by making a small donation! </description>
+    </item>
+    
+    <item>
+      <title>Thank You!</title>
+      <link>/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thanks/</guid>
+      <description> We are able to accomplish the work we do thanks to people like you who donate money for our cause! We are eternally grateful for your support and cannot wait to change the lives of more girls! Drop us a line if you would like to ask us any questions! The HAPPIH team </description>
+    </item>
+    
+  </channel>
+</rss>
